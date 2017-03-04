@@ -10,18 +10,18 @@
 
  <header> 
  	Hello World
-
-
-
-
-
-
-
-
-
+ 	
+ 	
 </header>
 
+<body> 
+Messaging platform
 
+
+
+
+
+</body>
 
 
 
