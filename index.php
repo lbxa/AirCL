@@ -15,40 +15,8 @@
 </header>
 
 <body> 
-Messaging platform
-
-
-
-
-
+Messaging platform nig
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </head>
 
